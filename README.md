@@ -5,7 +5,7 @@ This Python script processes and plots Cyclic Voltammetry (CV) data exported fro
 
 This repository provides a Python script to process and plot **cyclic voltammetry (CV)** data exported from **EC-Lab** (BioLogic), converting potential values from Ag/AgCl to the **RHE scale** and applying **iR correction**. It produces **high-quality plots** suitable for publications or presentations.
 
-![Cyclic Voltammetry Graph](CV1.png)
+![Cyclic Voltammetry Graph](CV1 (2).png)
 ✅ Features
 Supports multiple CV files (before/after electrolysis, various current densities).
 
