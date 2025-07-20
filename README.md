@@ -1,6 +1,10 @@
 # Cyclic-Voltammetery-Data-Visualisation
 Beautiful CV Plotting in RHE Scale with iR Correction
 This Python script processes and plots Cyclic Voltammetry (CV) data exported from EC-Lab software (BioLogic) and converts the potential to RHE scale with iR correction, resulting in publication-quality graphs. It supports multiple files and allows you to select specific cycle numbers for comparison (e.g. before and after electrolysis).
+# 📈 Cyclic Voltammetry Data Processor: RHE & iR-Corrected Beautiful Graphs
+
+This repository provides a Python script to process and plot **cyclic voltammetry (CV)** data exported from **EC-Lab** (BioLogic), converting potential values from Ag/AgCl to the **RHE scale** and applying **iR correction**. It produces **high-quality plots** suitable for publications or presentations.
+
 ![Cyclic Voltammetry Graph](CV1.png)
 ✅ Features
 Supports multiple CV files (before/after electrolysis, various current densities).
